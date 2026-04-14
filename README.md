@@ -19,7 +19,7 @@ A responsive restaurant menu web application built with **React class components
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://evangadi-menu-demo.netlify.app) *()*
+[View Live Demo](https://evangadi-menu-demo.netlify.app) *(comming soon)*
 
 ---
 
